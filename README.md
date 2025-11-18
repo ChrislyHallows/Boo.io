@@ -1,4 +1,4 @@
-![BOO.io banner](boo_banner.png)
+![BOO.io banner](boo_og_image.jpg)
 
 # BOO.io-Showcase
 
