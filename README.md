@@ -68,5 +68,5 @@ BOO.io is a horror-focused social platform where users create, share, and explor
 
 ## Links
 - **Website:** https://boonightmare.com  
-- **Demo video:** *(Add link if you have one)*  
+- **Demo video:**COMING SOON
 - **Nightmare Arcade:** https://theNightmareArcade.com  
