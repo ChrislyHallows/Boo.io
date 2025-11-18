@@ -2,16 +2,20 @@
 
 # BOO.io-Showcase
 
-BOO.io is a horror-focused social platform where users create, share, and explore micro-horror videos, stories, badges, and a personalized horror feed.
+BOO.io is a horror-focused social platform where users create, share, and explore micro-horror content — including videos, stories, original characters, badges, and news — all inside a single immersive horror ecosystem.
 
 ## What BOO.io Does
-- Lets users upload 60-second micro-horror videos
-- Provides a personalized horror feed
-- Includes a unique badge/achievement system
-- Lets users create profiles with horror stats
-- Enables community engagement around horror media
-- Includes the Nightmare Arcade Hangman game
-- Aggregates horror news and social content
+- Users upload original 60-second micro-horror videos
+- A personalized horror feed shows recent stories, videos, and updates
+- Dynamic badge + achievement system encourages engagement
+- Full user profiles with stats, badges, and history
+- Community interaction through likes, discussions, and featured content
+- Real-time horror news aggregation
+- Location-based “Horror Map” highlighting haunted places and cryptid sightings
+- Notification center for new followers, badges, and story updates
+- Integrated Nightmare Arcade content (games, shirts, characters)
+
+---
 
 ## Tech Stack
 - **Frontend:** Next.js, React  
@@ -19,22 +23,50 @@ BOO.io is a horror-focused social platform where users create, share, and explor
 - **Database:** DynamoDB  
 - **Storage:** AWS S3  
 - **Auth:** AWS Cognito  
-- **Video processing:** AWS Lambda + ffmpeg (if used)  
-- **Other services:** Base44 infra + custom microservices  
+- **Video handling:** AWS Lambda + ffmpeg (if used in your pipeline)  
+- **Infrastructure:** Base44 services + custom microservices
+
+---
 
 ## My Role
-- Founder and product lead
-- Defined product vision and features
-- Led UX, UI, and horror-native brand design
-- Managed development and engineering workflow
-- Created the badge system and user progression logic
-- Led testing, deployment, and user onboarding
-- Built community growth and content strategy
+- Founder and product lead  
+- Created the BOO.io vision, identity, and horror-focused brand  
+- Designed UX flows, UI, core interactions, and content systems  
+- Wrote the badge system logic + progression framework  
+- Directed engineering, streaming pipelines, and AWS architecture  
+- Oversaw QA, testing, and deployment cycles  
+- Built community, content strategy, and growth foundation  
+- Integrated Nightmare Arcade identity elements throughout the platform  
+
+---
 
 ## Screenshots
-(Screenshots appear below.)
+
+### Core Experience
+
+<p align="center">
+  <img src="boo_feed.png" width="260" />
+  <img src="boo_profile.png" width="260" />
+  <img src="boo_post.png" width="260" />
+</p>
+
+### Features & Tools
+
+<p align="center">
+  <img src="boo_notifications.png" width="260" />
+  <img src="boo_news.png" width="260" />
+  <img src="boo_map.png" width="260" />
+</p>
+
+### Badges
+
+<p align="center">
+  <img src="boo_badges.png" width="300" />
+</p>
+
+---
 
 ## Links
-- Website: https://boo.io  
-- Demo video: 
-- Socials:
+- **Website:** https://boonightmare.com  
+- **Demo video:** *(Add link if you have one)*  
+- **Nightmare Arcade:** https://theNightmareArcade.com  
